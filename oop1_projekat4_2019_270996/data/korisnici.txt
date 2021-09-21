@@ -1,0 +1,6 @@
+pera,peric,pp,pp,administrator
+Mile,Mikic,mm,mm,administrator
+Sava,Savic,ss,ss,kupac,10000.0,adresa 7/3,null,null
+Ana,Anic,aa,aa,vlasnik,null
+Ana,Anic,ana,aa,administrator
+Magdalena,Anic,ap,aa,vlasnik,nullMarko,Markovic,mm,mm,kupac,10000.0,adresa,null,null

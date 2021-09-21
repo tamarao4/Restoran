@@ -1,0 +1,3 @@
+model.Restoran,Restoran1,2000.0,null,null
+model.Restoran,2,200.0,null,null
+model.Restoran,Novosadski,400.0,null,null
